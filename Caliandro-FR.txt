@@ -1,0 +1,3 @@
+1. The system shall provide private chats to the users.
+2. The system shall provide information* about a country when a user selects it.
+3. The system shall allow users to post reviews of their travels.

@@ -1,0 +1,3 @@
+1. As a traveler, I want to read other people's reviews, so that I can have an overview of the place that I want to visit.
+2. As a user seeking for a group, I want to see if I share interests with other people, so that I can contact them and travel with them.
+3. As a promoter, I want to be able to contact travelers in my city (at most 20km from my position), so that I can offer them rebates for discos.

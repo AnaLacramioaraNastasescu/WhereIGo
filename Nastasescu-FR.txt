@@ -1,0 +1,4 @@
+1. The system shall provide locations to visit and companions to travel with to users based on their
+personality*.
+2. The system shall determine the user’s position based on the geolocalization of their device.
+3. The system shall allow a user to rate* a suggested location.
