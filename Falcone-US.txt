@@ -1,3 +1,3 @@
-1. As a user, I want to take a personality test, so that I can understand which is the best nation I could go on holiday, according to my needs and interests.
-2. As a moderator, I want to have access to the posts of users, so that I have the possibility to delete inappropriate posts in order to keep the website a happy place.
-3. As a social user, I want to chat with other people, so that I can find users with similar interests with whom I could share a good journey.
+1. As a user, I want to take a personality test, so that I can understand which is the best nation I could go on holiday, according to my needs and interests. 
+2. As a moderator, I want to have access to the posts of users, so that I have the possibility to delete inappropriate posts in order to keep the website a happy place. 
+3. As a social user, I want to chat with other people, so that I can find users with similar interests with whom I could share a good journey. 
